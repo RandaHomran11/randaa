@@ -5,8 +5,8 @@
 <project default="compile">
 
    
-   <property name="src.java.dir" location="./src/hw1"/>
-   <property name="src.test.dir" location="./src/hw1/test"/>
+   <property name="src.java.dir" location="./src"/>
+   <property name="src.test.dir" location="./src/test"/>
    <property name="result.dir" location="./target"/>
    <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
    <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
